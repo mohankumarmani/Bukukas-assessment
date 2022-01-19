@@ -43,6 +43,4 @@ docker run -d -p 8085:8080 <image-name>
 
 (The service will run on port 8085 in this case.)
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
 ## Running the service on a k8s cluster
